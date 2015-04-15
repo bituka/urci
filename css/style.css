@@ -329,3 +329,10 @@ section article {
     font-size: large;
   	 color: black;
 }
+
+.boardpics{
+  	width: 210px;
+	height: auto;
+   border-radius: 50%;
+}
+  
